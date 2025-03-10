@@ -1,0 +1,27 @@
+# Core Libraries
+langchain
+langchain-huggingface
+langchain-community
+langchain-chroma
+langchain-core
+
+# Document Processing
+PyPDF2
+docx2txt
+python-magic
+python-magic-bin # For Windows users
+
+# Embeddings and Vector Store
+sentence-transformers
+chromadb
+
+# Ollama API Interaction
+requests
+aiohttp # For asynchronous requests in Chainlit
+
+# User Interfaces
+gradio
+chainlit
+
+# Utilities
+textwrap3
